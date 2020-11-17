@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - MovingPlatform
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Player
+  - Item
+  - Enemies
+  - PlayerProjectiles
+  - EnemyesProjectile
+  - EnemyMovementTrajectory
+  - LvlEnderer
+  - Traps
+  - Platforms
+  - PlatformMovementTrajectory
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 2506726335
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Platform
+    uniqueID: 3464939227
+    locked: 0
+  - name: Ground
+    uniqueID: 820340813
+    locked: 0
+  - name: Walls
+    uniqueID: 3446937639
+    locked: 0
+  - name: Traps
+    uniqueID: 2493047421
+    locked: 0
+  - name: Enemies
+    uniqueID: 2545221047
+    locked: 0
+  - name: Items
+    uniqueID: 910836923
+    locked: 0
+  - name: Projectiles
+    uniqueID: 3284420751
+    locked: 0
+  - name: Player
+    uniqueID: 3696548967
+    locked: 0
+  - name: UI
+    uniqueID: 3347686217
+    locked: 0
